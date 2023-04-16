@@ -25,4 +25,4 @@ This tool can be used by security professionals, system administrators, and anyo
 
 # Contributions
 
-Contributions are welcome! If you have any suggestions for improving the tool or adding new features, please submit a pull request or open an issue on GitHub. We are always looking for ways to improve the tool and make it more useful for the community.
+Contributions are welcome! If you have any suggestions for improving the tool or adding new features, please submit a pull request or open an issue on GitHub. Always looking for ways to improve the tool and make it more useful for the community.
